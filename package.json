@@ -1,0 +1,23 @@
+{
+  "name": "yafr",
+  "version": "1.0.0",
+  "description": "Yet Another Flow Runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psvensson/yafr.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psvensson/yafr/issues"
+  },
+  "homepage": "https://github.com/psvensson/yafr#readme",
+  "dependencies": {
+    "drawflow": "0.0.55",
+    "jest": "^28.0.2"
+  }
+}
